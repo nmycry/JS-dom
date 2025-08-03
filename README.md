@@ -49,3 +49,24 @@
 1. **Clone o repositório**:
    ```bash
    git clone https://github.com/nmycry/JS-dom.git
+2. **Acesse a pasta do projeto:**:
+   ```bash
+   cd JS-dom
+
+3. **Abra o arquivo index.html no navegador**:
+
+Também é possível jogar direto pelo GitHub Pages (link disponível no repositório).
+
+**📚 Créditos**
+https://www.youtube.com/watch?v=DcN49TD7it0
+https://www.youtube.com/watch?v=UVLT52VcRkY&list=PLsFVybaG4mODFwCuV06yLitVTikKF09sy
+https://www.youtube.com/watch?v=2JVJAaVZnqc&list=PLvtOeOw_Op8kaRHXFWj37ytAa-oSm27wR
+https://www.devmedia.com.br/trabalhando-com-dom-em-javascript/29039
+https://developer.mozilla.org/pt-BR/docs/Web/API/Document_Object_Model/Introduction
+https://www.youtube.com/watch?v=VUohBijAoAM
+https://www.youtube.com/watch?v=qG9mkTQrsIQ
+https://github.com/jsdom/jsdom
+https://www.locaweb.com.br/blog/temas/codigo-aberto/dom-javascript/
+
+**📄 Licença**
+Este projeto está licenciado sob a Licença MIT 
