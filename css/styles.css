@@ -1,0 +1,41 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #f4f4f4;
+  padding: 20px;
+}
+
+.hidden {
+  display: none;
+}
+
+#grid {
+  display: grid;
+  grid-template-columns: repeat(4, 80px);
+  gap: 10px;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.square {
+  width: 80px;
+  height: 80px;
+  border: 2px solid #333;
+  cursor: pointer;
+}
+#ranking {
+  margin-top: 20px;
+}
+
+#ranking h2 {
+  font-size: 1.2rem;
+}
+
+#ranking ol {
+  padding-left: 0;
+  list-style: none;
+}
+
+#ranking li {
+  margin: 5px 0;
+}
